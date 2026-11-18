@@ -1,0 +1,16 @@
+.message.assistant .bubble{white-space:normal;overflow-wrap:anywhere}
+.message.assistant .bubble> :first-child{margin-top:0}
+.message.assistant .bubble> :last-child{margin-bottom:0}
+.message.assistant .bubble p{margin:0 0 10px}
+.message.assistant .bubble h1,.message.assistant .bubble h2,.message.assistant .bubble h3,.message.assistant .bubble h4,.message.assistant .bubble h5,.message.assistant .bubble h6{font-family:Manrope,"DM Sans",sans-serif;line-height:1.35;letter-spacing:-.25px;margin:16px 0 8px;color:#29332d}
+.message.assistant .bubble h1{font-size:18px}.message.assistant .bubble h2{font-size:16px}.message.assistant .bubble h3{font-size:14px}.message.assistant .bubble h4,.message.assistant .bubble h5,.message.assistant .bubble h6{font-size:13px}
+.message.assistant .bubble strong{font-weight:700;color:#28362d}.message.assistant .bubble em{color:#5b655e}
+.message.assistant .bubble ul,.message.assistant .bubble ol{margin:5px 0 12px;padding-left:21px}.message.assistant .bubble li{padding-left:2px;margin:4px 0}.message.assistant .bubble li>p{margin:0 0 4px}
+.message.assistant .bubble blockquote{margin:10px 0;padding:8px 12px;border-left:3px solid #9fc7ad;background:#f5f8f5;color:#5a655d;border-radius:0 7px 7px 0}.message.assistant .bubble blockquote> :last-child{margin-bottom:0}
+.message.assistant .bubble hr{border:0;border-top:1px solid #e6ebe6;margin:14px 0}
+.message.assistant .bubble code{font:12px/1.5 Consolas,"Cascadia Code",monospace;background:#eef2ee;border:1px solid #e4e9e4;color:#37523e;border-radius:4px;padding:1px 4px;overflow-wrap:anywhere}
+.message.assistant .bubble pre{max-width:100%;overflow:auto;margin:10px 0 12px;padding:12px 14px;border-radius:8px;background:#202a23;color:#ecf3ed;white-space:pre}
+.message.assistant .bubble pre code{display:block;border:0;padding:0;background:transparent;color:inherit;white-space:pre;overflow-wrap:normal}
+.message.assistant .bubble table{display:block;max-width:100%;overflow-x:auto;border-collapse:collapse;margin:10px 0 12px;font-size:11px}
+.message.assistant .bubble th,.message.assistant .bubble td{border:1px solid #e5eae5;padding:6px 8px;text-align:left;vertical-align:top}.message.assistant .bubble th{background:#f4f7f4;font-weight:700;color:#35463a}
+.message.assistant .bubble a{color:#14764f;text-decoration:underline;text-decoration-color:#a7c9b4;text-underline-offset:2px}.message.assistant .bubble a:hover{color:#0d593a}

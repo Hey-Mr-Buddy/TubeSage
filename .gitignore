@@ -1,0 +1,68 @@
+# Python
+YTChatbotVEnv/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+*.key
+secrets.txt
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+data/
+*.sqlite
+*.sqlite3
+
+# Node.js / Next.js
+node_modules/
+.next/
+out/
+.npm/
+.eslintcache
+.turbo/
+
+# Clerk (contains secrets)
+.clerk/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+.cache/
